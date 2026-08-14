@@ -61,5 +61,14 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1786677256.425799,
+    "completed_at": 1786677260.166562,
+    "comments": [
+      "You are missing the .gitignore file! Try to reset the exercise using gitmastery progress reset"
+    ],
+    "status": "Incomplete"
   }
 ]
