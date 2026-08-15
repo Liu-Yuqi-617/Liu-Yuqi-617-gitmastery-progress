@@ -153,5 +153,14 @@
       "E:\\gitMastery\\gitmastery-exercises\\clone-repo\\shapes"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1786757148.389377,
+    "completed_at": 1786757154.939002,
+    "comments": [
+      "The remote 'upstream' is missing!"
+    ],
+    "status": "Incomplete"
   }
 ]
