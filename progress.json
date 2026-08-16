@@ -306,5 +306,14 @@
       "Good work reverting commits!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786873680.491058,
+    "completed_at": 1786873682.99846,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
   }
 ]
