@@ -548,5 +548,14 @@
       "Remote branch STU still exists."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1787385587.872209,
+    "completed_at": 1787385590.549235,
+    "comments": [
+      "Nice work renaming the branch locally and on the remote!"
+    ],
+    "status": "Completed"
   }
 ]
