@@ -421,5 +421,14 @@
       "You need to start merging the feature branches."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-bender",
+    "started_at": 1787381399.048813,
+    "completed_at": 1787381400.853899,
+    "comments": [
+      "Great work with merging the branches in order! Try running the HTML files locally!"
+    ],
+    "status": "Completed"
   }
 ]
